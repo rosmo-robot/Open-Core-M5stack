@@ -1,5 +1,5 @@
 # Open-Core-M5stack
-Adaptor for ESP32-Dev-C &amp; M5stack modules. It can be viewed: [Open-core-M5stack on Altium](https://365.altium.com/files/CDB3C9AB-1C0E-4B25-A3A4-1780F1BBCA1A)
+Adaptor for ESP32-Dev-C &amp; M5stack modules. It can be viewed: Open-core-M5stack [on Altium](https://365.altium.com/files/CDB3C9AB-1C0E-4B25-A3A4-1780F1BBCA1A) or [Easy Eda](https://easyeda.com/editor#id=49352f7d047e4be9b435180f0d233d80)
 
 When used with [Olimex ESP32](https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware) can provide an open hardware M5 stack interface. Includes a [UEXT socket](https://en.wikipedia.org/wiki/UEXT#Electrical_characteristics) for interfacing with additional modules.
 
