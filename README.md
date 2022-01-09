@@ -1,7 +1,7 @@
 !!Untested!!
 
 # Open-Core-M5stack
-Adaptor for ESP32-Dev-C &amp; M5stack modules. It can be viewed [on Altium](https://365.altium.com/files/CDB3C9AB-1C0E-4B25-A3A4-1780F1BBCA1A) or [Easy Eda](https://easyeda.com/editor#id=49352f7d047e4be9b435180f0d233d80)
+Adapter for ESP32-Dev-C &amp; M5stack modules. It can be viewed [on Altium](https://365.altium.com/files/CDB3C9AB-1C0E-4B25-A3A4-1780F1BBCA1A) or [Easy Eda](https://easyeda.com/editor#id=49352f7d047e4be9b435180f0d233d80)
 
 It is used as a replacement for the 'core' modules in the M5stack system. It should be compatible with any [ESP32-DevKitC V4](https://www.aliexpress.com/item/1005001838731651.html)
 
