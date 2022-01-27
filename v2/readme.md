@@ -1,1 +1,22 @@
 
+<img width="352" alt="ttl" src="https://user-images.githubusercontent.com/400875/151266802-1ccfb552-a6f8-4f75-a684-07df3f4f801b.png">
+
+
+Very rough sketch of CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172e18162d7fa) in 5cm x 5cm M5stack dimensions.
+
+- 8x servo for a walking otto as [Robo8080 documents](https://togetter.com/li/1374900) 
+- 5v input via JST
+-  Optional [HCS404](https://github.com/rosmo-robot/Rosmo_3D/issues/6) staggered pins
+- Optional [M5 Mbus](https://forum.m5stack.com/topic/360/m5stack-fire-pinout-leaflet)
+- Optional [ staggered 7pin display 1.54"](http://www.lcdwiki.com/1.54inch_IPS_Module)
+- Optional [3v Stemma](https://www.tomshardware.com/features/stemma-vs-qwiic-vs-grove-connectors) Supports [Qwiic](https://www.reddit.com/r/electronics/comments/8lhxwg/sparkfuns_qwiic_standard_for_modular_i2c_devices/), [Grove (I2C)](https://thepihut.com/products/qwiic-cable-grove-adapter-100mm) ,[Gravity](https://learn.adafruit.com/introducing-adafruit-stemma-qt/dfrobot-gravity)
+
+<img width="384" alt="ttlesp32" src="https://user-images.githubusercontent.com/400875/151266787-0f938198-b8a7-4f36-9d6a-fd6caf3981f7.png">
+
+
+
+<img width="489" alt="side" src="https://user-images.githubusercontent.com/400875/151074421-d22a6a05-58cb-4bdc-bd93-8d7e2470e1fe.png">
+
+
+<img width="184" alt="otto5" src="https://user-images.githubusercontent.com/400875/150679018-b0bb5ad0-db5d-4c06-ad89-1fea6cc3b11b.png">
+
