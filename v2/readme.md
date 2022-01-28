@@ -9,6 +9,7 @@ CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172
 - Optional [HCS404](https://github.com/rosmo-robot/Rosmo_3D/issues/6) with staggered pins
 - Optional [M5 Mbus](https://forum.m5stack.com/topic/360/m5stack-fire-pinout-leaflet)
 - Optional [ staggered 7pin display 1.54"](http://www.lcdwiki.com/1.54inch_IPS_Module)
+- Optional 5pin [Breakout garden header](https://shop.pimoroni.com/collections/breakout-garden)
 - Optional [3v Stemma](https://www.tomshardware.com/features/stemma-vs-qwiic-vs-grove-connectors) Supports [Qwiic](https://www.reddit.com/r/electronics/comments/8lhxwg/sparkfuns_qwiic_standard_for_modular_i2c_devices/), [Grove (I2C)](https://thepihut.com/products/qwiic-cable-grove-adapter-100mm) ,[Gravity](https://learn.adafruit.com/introducing-adafruit-stemma-qt/dfrobot-gravity)
 
 Provisional [BOM](https://cloud.transition-space.org/s/oWLfcNf2Ctzc3SG)
