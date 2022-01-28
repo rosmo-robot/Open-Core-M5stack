@@ -19,7 +19,7 @@ Form factor: Square with 1/4 cut-out bolt holes
 
 Power connectors: JST-PH 2pin
 
-The pin mappings will be as follows:
+The [pin mappings are here](https://docs.google.com/spreadsheets/d/18HBvosVtXnOy4TjSlgeaK6NfCzJlY6rAayFWI3vbToo/htmlview)
 
 
 Programming will be via USB.
@@ -36,7 +36,7 @@ Conceptual schematics:
 
 
 
-'''Features'''
+ '''Use cases'''
 - 8x servo for a walking otto as [Robo8080 documents](https://togetter.com/li/1374900) 
 - 5v input via JST
 - 4x pin Tx/Rx interface for programming the ESP32
