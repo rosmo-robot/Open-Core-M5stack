@@ -1,7 +1,7 @@
 <img width="370" alt="opencoreesp32" src="https://user-images.githubusercontent.com/400875/151476227-865af0c9-5c3e-4b6e-902d-47326b499fff.png">
 <img width="351" alt="opencore" src="https://user-images.githubusercontent.com/400875/151476250-7e076ac4-c0a4-49d5-80a2-1c5199740953.png">
 
-CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172e18162d7fa|cf28dd6a985d4901b4a220c4195efb63) in 5cm x 5cm M5stack dimensions.
+CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172e18162d7fa|cf28dd6a985d4901b4a220c4195efb63) in 5cm x 5cm [M5stack dimensions](https://shop.m5stack.com/collections/stack-series).
 
 - 8x servo for a walking otto as [Robo8080 documents](https://togetter.com/li/1374900) 
 - 5v input via JST
@@ -12,9 +12,6 @@ CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172
 - Optional [3v Stemma](https://www.tomshardware.com/features/stemma-vs-qwiic-vs-grove-connectors) Supports [Qwiic](https://www.reddit.com/r/electronics/comments/8lhxwg/sparkfuns_qwiic_standard_for_modular_i2c_devices/), [Grove (I2C)](https://thepihut.com/products/qwiic-cable-grove-adapter-100mm) ,[Gravity](https://learn.adafruit.com/introducing-adafruit-stemma-qt/dfrobot-gravity)
 
 Provisional [BOM](https://cloud.transition-space.org/s/oWLfcNf2Ctzc3SG)
-
-<img width="384" alt="ttlesp32" src="https://user-images.githubusercontent.com/400875/151266787-0f938198-b8a7-4f36-9d6a-fd6caf3981f7.png">
-
 
 
 <img width="489" alt="side" src="https://user-images.githubusercontent.com/400875/151074421-d22a6a05-58cb-4bdc-bd93-8d7e2470e1fe.png">
