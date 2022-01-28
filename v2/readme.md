@@ -1,8 +1,7 @@
+<img width="370" alt="opencoreesp32" src="https://user-images.githubusercontent.com/400875/151476227-865af0c9-5c3e-4b6e-902d-47326b499fff.png">
+<img width="351" alt="opencore" src="https://user-images.githubusercontent.com/400875/151476250-7e076ac4-c0a4-49d5-80a2-1c5199740953.png">
 
-<img width="352" alt="ttl" src="https://user-images.githubusercontent.com/400875/151266802-1ccfb552-a6f8-4f75-a684-07df3f4f801b.png">
-
-
-CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172e18162d7fa) in 5cm x 5cm M5stack dimensions.
+CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172e18162d7fa|cf28dd6a985d4901b4a220c4195efb63) in 5cm x 5cm M5stack dimensions.
 
 - 8x servo for a walking otto as [Robo8080 documents](https://togetter.com/li/1374900) 
 - 5v input via JST
