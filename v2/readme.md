@@ -1,7 +1,7 @@
 <img width="370" alt="opencoreesp32" src="https://user-images.githubusercontent.com/400875/151476227-865af0c9-5c3e-4b6e-902d-47326b499fff.png">
 <img width="351" alt="opencore" src="https://user-images.githubusercontent.com/400875/151476250-7e076ac4-c0a4-49d5-80a2-1c5199740953.png">
 
-Open Core ESP32 Dev board
+**Open Core ESP32 Dev board**
 
 CERN licenced [ESP32 board](https://easyeda.com/editor#id=0c94645e6c4e443cb9d172e18162d7fa|cf28dd6a985d4901b4a220c4195efb63) in 5cm x 5cm [M5stack dimensions](https://shop.m5stack.com/collections/stack-series).
 
@@ -21,7 +21,6 @@ Power connectors: JST-PH 2pin
 
 The [pin mappings are here](https://docs.google.com/spreadsheets/d/18HBvosVtXnOy4TjSlgeaK6NfCzJlY6rAayFWI3vbToo/htmlview)
 
-
 Programming will be via USB.
 
 Control will be via Wifi
@@ -30,13 +29,10 @@ Board: 2 layers generic, according to JLCPCB.
 
 Provisional [BOM](https://cloud.transition-space.org/s/oWLfcNf2Ctzc3SG)
 
-
-Conceptual schematics:
-
+[Conceptual schematics](https://github.com/OpenMYR/ESP32-Hobby-Servo/blob/master/Documents/ESP32%20Hobby%20Servo%20Controller%20Schematic.pdf)
 
 
-
- '''Use cases'''
+**Use cases**
 - 8x servo for a walking otto as [Robo8080 documents](https://togetter.com/li/1374900) 
 - 5v input via JST
 - 4x pin Tx/Rx interface for programming the ESP32
