@@ -13,7 +13,7 @@ Power supply: 5v
 
 Current max: 2A
 
-Main BOM components: ESP32 module, 5V> 3v step down, USBC socket, reset button?
+Main BOM components: ESP32 module, AZ1117C-3.3, TPS62177DQCR, USBC socket, reset button?
 
 Form factor: Square with 1/4 cut-out bolt holes
 
