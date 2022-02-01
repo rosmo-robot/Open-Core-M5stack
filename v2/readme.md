@@ -38,9 +38,9 @@ In progress [schematic](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c41
 **Use cases**
 - 8x servo for a walking OttoDIY/Ninja [Robo8080 documents](https://togetter.com/li/1374900) 
 - Optional Rosmo ESC for [Rosmo.io](https://rosmo.io)
+- Optional [staggered 8pin display 1.54" or 2"](http://www.lcdwiki.com/1.54inch_IPS_Module)
 - Optional [HCS404](https://github.com/rosmo-robot/Rosmo_3D/issues/6) with staggered pins
 - Optional [M5 Mbus](https://forum.m5stack.com/topic/360/m5stack-fire-pinout-leaflet)
-- Optional [ staggered 7pin display 1.54"](http://www.lcdwiki.com/1.54inch_IPS_Module)
 - Optional 5pin [Breakout garden header](https://shop.pimoroni.com/collections/breakout-garden)
 - Optional [3v Stemma](https://www.tomshardware.com/features/stemma-vs-qwiic-vs-grove-connectors) Supports [Qwiic](https://www.reddit.com/r/electronics/comments/8lhxwg/sparkfuns_qwiic_standard_for_modular_i2c_devices/), [Grove (I2C)](https://thepihut.com/products/qwiic-cable-grove-adapter-100mm) ,[Gravity](https://learn.adafruit.com/introducing-adafruit-stemma-qt/dfrobot-gravity)
 - Optional [M5 x4 motor](https://docs.m5stack.com/en/module/lego_plus) GPIO 16, 21, 36, 26, 17, 22, 13 With no confict with servo's
