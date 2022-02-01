@@ -30,7 +30,8 @@ Control will be via Wifi
 Board: 2 layers generic, according to JLCPCB.
 
 In progress [schematic](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c4195efb63|8899d40f4e734017b47c859c78fa6371)
-![Schematic_OttoESP32_2022-02-01 (3)](https://user-images.githubusercontent.com/400875/151976830-792d0c72-bdc5-4b23-a20d-7435e164ed29.png)
+![Schematic_OttoESP32_2022-02-01 (5)](https://user-images.githubusercontent.com/400875/152006990-6e690cb6-8825-4a09-a319-a157a48f4662.png)
+
 
 
 
@@ -42,12 +43,12 @@ In progress [schematic](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c41
 - Optional [ staggered 7pin display 1.54"](http://www.lcdwiki.com/1.54inch_IPS_Module)
 - Optional 5pin [Breakout garden header](https://shop.pimoroni.com/collections/breakout-garden)
 - Optional [3v Stemma](https://www.tomshardware.com/features/stemma-vs-qwiic-vs-grove-connectors) Supports [Qwiic](https://www.reddit.com/r/electronics/comments/8lhxwg/sparkfuns_qwiic_standard_for_modular_i2c_devices/), [Grove (I2C)](https://thepihut.com/products/qwiic-cable-grove-adapter-100mm) ,[Gravity](https://learn.adafruit.com/introducing-adafruit-stemma-qt/dfrobot-gravity)
+- Optional [M5 x4 motor](https://docs.m5stack.com/en/module/lego_plus) GPIO 16, 21, 36, 26, 17, 22, 13 With no confict with servo's
+- Optional [Open DC motor](https://github.com/tomorrow56/M5Stack_Motor_Driver/blob/master/M5_Moter_v02_schematics.pdf) GPIO 16, 2, 12, 15, 13, 0
 - Optional [M5 LAN base](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/schematic/Bases/lan_base.pdf) GPIO 34,23,19,18,26
-- Optional [M5 x4 motor](https://docs.m5stack.com/en/module/lego_plus) GPIO 16, 21, 36, 26, 17, 22, 13
 - Optional [M5 868, 433 LoRa](https://docs.m5stack.com/en/module/lora868) GPIO 23,19,18, 36, 26, 05
 - Optional [M5 commu](https://docs.m5stack.com/en/module/commu) GPIO 23,19,18, 03, 16, 21, 12, 15, 01, 17, 22
 - Optional [M5 GPS](https://docs.m5stack.com/en/module/gps) GPIO 03, 16, 35, 36, 01, 17, 05, 13, 34
-- Optional [Open DC motor](https://github.com/tomorrow56/M5Stack_Motor_Driver/blob/master/M5_Moter_v02_schematics.pdf) GPIO 16, 2, 12, 15, 13, 0
 
 
 Older pictures
