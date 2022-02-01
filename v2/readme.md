@@ -42,6 +42,7 @@ In progress [schematic](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c41
 - Optional [ staggered 7pin display 1.54"](http://www.lcdwiki.com/1.54inch_IPS_Module)
 - Optional 5pin [Breakout garden header](https://shop.pimoroni.com/collections/breakout-garden)
 - Optional [3v Stemma](https://www.tomshardware.com/features/stemma-vs-qwiic-vs-grove-connectors) Supports [Qwiic](https://www.reddit.com/r/electronics/comments/8lhxwg/sparkfuns_qwiic_standard_for_modular_i2c_devices/), [Grove (I2C)](https://thepihut.com/products/qwiic-cable-grove-adapter-100mm) ,[Gravity](https://learn.adafruit.com/introducing-adafruit-stemma-qt/dfrobot-gravity)
+- Optional [M5 LAN base](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/schematic/Bases/lan_base.pdf) GPIO 34,23,19,18,26
 
 Older pictures
 
