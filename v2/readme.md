@@ -15,7 +15,7 @@ Power supply: 5v
 
 Current max: 2A
 
-Main BOM components: ESP32 module, AZ1117C-3.3, TPS62177DQCR, USBC socket, TXS0108E Or similar 5V signal voltage translation/a level shifter for the servos signal
+Main BOM components: ESP32 S3 module?, AZ1117C-3.3, TPS62177DQCR, USBC socket, TXS0108E Or similar 5V signal voltage translation/a level shifter for the servos signal
 
 Form factor: Square with 1/4 cut-out bolt holes
 
@@ -48,6 +48,9 @@ In progress [schematic](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c41
 - Optional [M5 commu](https://docs.m5stack.com/en/module/commu) GPIO 23,19,18, 03, 16, 21, 12, 15, 01, 17, 22
 - Optional [M5 GPS](https://docs.m5stack.com/en/module/gps) GPIO 03, 16, 35, 36, 01, 17, 05, 13, 34
 
+**ESP32**
+[S3 compared](https://www.cnx-software.com/2022/01/12/esp32-s3-esp32-c3-esp8266-modules-comparison/)
+[S2 & S3 pins](https://twitter.com/eMbeddedHome/status/1458108024053239816/photo/3)
 
 Older pictures
 
