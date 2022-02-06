@@ -1,6 +1,6 @@
 WARNING - UNTESTED
 
-[Schematics & PCB on OSHW](https://oshwlab.com/Rosmo/Octocore) Or [Altium](https://365.altium.com/files/BA03C7A3-E264-4782-99DA-AFD7CA988E91?openedFrom=files) published for review
+[Schematics & PCB on OSHW](https://easyeda.com/editor#id=da7541c8079445a7816d1372d3d80049|e3e073f3abd441e48838caebd0ee7998) Or [Altium](https://365.altium.com/files/BA03C7A3-E264-4782-99DA-AFD7CA988E91?openedFrom=files) published for review
 
 <img width="314" alt="octov1top" src="https://user-images.githubusercontent.com/400875/152676904-e26c99aa-717f-48e1-9abb-caa9c4d02ac9.png">
 <img width="317" alt="octov1" src="https://user-images.githubusercontent.com/400875/152676917-6fbd343d-e27f-4108-8f4d-84f5609c7052.png">
