@@ -1,5 +1,5 @@
 
-[Schematic in 2nd tab](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c4195efb63|8899d40f4e734017b47c859c78fa6371) BOM can be exported from that link
+[Schematics & PCB on EasyEDA](https://easyeda.com/Rosmo/Octocore) published for review
 
 **Open Core ESP32 Dev board**
 
@@ -15,7 +15,7 @@ Current max: 2A
 
 Main BOM components: ESP32 S3 module?, AZ1117C-3.3, TPS62177DQCR, USBC socket, TXS0108E Or similar 5V signal voltage translation/a level shifter for the servos signal
 
-Form factor: Square with 1/4 cut-out bolt holes
+Form factor: Square with cut-out bolt holes
 
 Power connectors: JST-PH 2pin
 
@@ -25,12 +25,11 @@ Control will be via Wifi
 
 Board: 4 layers generic, according to JLCPCB.
 
-In progress [schematic](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c4195efb63|8899d40f4e734017b47c859c78fa6371)
-![Schematic_OttoESP32_2022-02-01 (5)](https://user-images.githubusercontent.com/400875/152006990-6e690cb6-8825-4a09-a319-a157a48f4662.png)
+In progress [schematic](https://easyeda.com/editor#id=da7541c8079445a7816d1372d3d80049)
 
 
 **Use cases**
-- 8x servo for a walking OttoDIY/Ninja [Robo8080 documents](https://togetter.com/li/1374900) 
+- 8x servo for a walking [OttoDIY/Ninja](https://www.ottodiy.com/) 
 - Optional Rosmo ESC for [Rosmo.io](https://rosmo.io)
 - Optional [staggered 8pin display 1.54" or 2"](http://www.lcdwiki.com/1.54inch_IPS_Module)
 - Optional [HCS404](https://github.com/rosmo-robot/Rosmo_3D/issues/6) with staggered pins
