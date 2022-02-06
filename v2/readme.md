@@ -2,10 +2,12 @@ WARNING - UNTESTED
 
 [Schematics & PCB on OSHW](https://easyeda.com/editor#id=da7541c8079445a7816d1372d3d80049|e3e073f3abd441e48838caebd0ee7998) Or [Altium](https://365.altium.com/files/BA03C7A3-E264-4782-99DA-AFD7CA988E91?openedFrom=files) published for review
 
-<img width="361" alt="Ottocore-top" src="https://user-images.githubusercontent.com/400875/152698944-71a5b198-afff-4235-8663-178cdd03d2b3.png">
 
 <img width="317" alt="octov1" src="https://user-images.githubusercontent.com/400875/152676917-6fbd343d-e27f-4108-8f4d-84f5609c7052.png">
-<img width="491" alt="octocoreside" src="https://user-images.githubusercontent.com/400875/152698967-947a8254-f536-4699-b24c-ebb83f413764.png">
+<img width="371" alt="ottofemtop" src="https://user-images.githubusercontent.com/400875/152699502-bc1946bb-6126-457b-a5fd-3447ebf4af7e.png">
+<img width="486" alt="ottocorefem" src="https://user-images.githubusercontent.com/400875/152699516-75131079-7608-4f6c-8013-a7280e3a255e.png">
+<img width="482" alt="ottofemside" src="https://user-images.githubusercontent.com/400875/152699534-8a454247-884c-4016-a474-0cbcd0f61248.png">
+
 
 
 **Open Core ESP32 Dev board**
