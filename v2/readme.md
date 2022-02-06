@@ -2,7 +2,8 @@ WARNING - UNTESTED
 
 [Schematics & PCB on OSHW](https://easyeda.com/editor#id=da7541c8079445a7816d1372d3d80049|e3e073f3abd441e48838caebd0ee7998) Or [Altium](https://365.altium.com/files/BA03C7A3-E264-4782-99DA-AFD7CA988E91?openedFrom=files) published for review
 
-<img width="386" alt="octotop" src="https://user-images.githubusercontent.com/400875/152702400-da8aab47-0ba9-4d3f-9ca0-3ab297e621ff.png">
+<img width="376" alt="Octocore" src="https://user-images.githubusercontent.com/400875/152706141-382c25cd-05c8-412e-9fe4-fd69ac6ddf12.png">
+
 <img width="365" alt="octobottom" src="https://user-images.githubusercontent.com/400875/152702404-46cbf59d-ac2c-49ab-9e30-9f5ad47ae5b2.png">
 <img width="491" alt="octoside" src="https://user-images.githubusercontent.com/400875/152702418-0e77ae77-7978-4ed4-89d6-6e295d37960a.png">
 
