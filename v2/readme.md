@@ -1,5 +1,10 @@
+WARNING - UNTESTED
 
-[Schematics & PCB on EasyEDA](https://easyeda.com/Rosmo/Octocore) published for review
+[Schematics & PCB on OSHW](https://oshwlab.com/Rosmo/Octocore) Or [Altium](https://365.altium.com/files/BA03C7A3-E264-4782-99DA-AFD7CA988E91?openedFrom=files) published for review
+
+<img width="314" alt="octov1top" src="https://user-images.githubusercontent.com/400875/152676904-e26c99aa-717f-48e1-9abb-caa9c4d02ac9.png">
+<img width="317" alt="octov1" src="https://user-images.githubusercontent.com/400875/152676917-6fbd343d-e27f-4108-8f4d-84f5609c7052.png">
+
 
 **Open Core ESP32 Dev board**
 
@@ -49,7 +54,7 @@ In progress [schematic](https://easyeda.com/editor#id=da7541c8079445a7816d1372d3
 
 Older pictures
 
-<img width="489" alt="side" src="https://user-images.githubusercontent.com/400875/151074421-d22a6a05-58cb-4bdc-bd93-8d7e2470e1fe.png">
+<img width="480" alt="octoside" src="https://user-images.githubusercontent.com/400875/152676977-f0d99dbf-f9cc-47d8-a631-f4b47d5068d9.png">
 
 
 <img width="184" alt="otto5" src="https://user-images.githubusercontent.com/400875/150679018-b0bb5ad0-db5d-4c06-ad89-1fea6cc3b11b.png">
