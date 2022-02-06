@@ -1,7 +1,5 @@
-<img width="447" alt="v2" src="https://user-images.githubusercontent.com/400875/151975925-141f34f4-bfb3-49a4-a934-d17ff00b97d6.png">
-<img width="373" alt="V2b" src="https://user-images.githubusercontent.com/400875/151975964-5604d894-c7a4-4253-8fb4-9250efad506d.png">
 
-[Schematic in 2nd tab](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c4195efb63|8899d40f4e734017b47c859c78fa6371) BOM can be exported from here
+[Schematic in 2nd tab](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c4195efb63|8899d40f4e734017b47c859c78fa6371) BOM can be exported from that link
 
 **Open Core ESP32 Dev board**
 
@@ -21,13 +19,11 @@ Form factor: Square with 1/4 cut-out bolt holes
 
 Power connectors: JST-PH 2pin
 
-The [pin mappings are here](https://docs.google.com/spreadsheets/d/18HBvosVtXnOy4TjSlgeaK6NfCzJlY6rAayFWI3vbToo/htmlview)
-
 Programming will be via USB.
 
 Control will be via Wifi
 
-Board: 2 layers generic, according to JLCPCB.
+Board: 4 layers generic, according to JLCPCB.
 
 In progress [schematic](https://easyeda.com/editor#id=|cf28dd6a985d4901b4a220c4195efb63|8899d40f4e734017b47c859c78fa6371)
 ![Schematic_OttoESP32_2022-02-01 (5)](https://user-images.githubusercontent.com/400875/152006990-6e690cb6-8825-4a09-a319-a157a48f4662.png)
