@@ -8,4 +8,4 @@ WARNING untested - do not use
 
 Iteration of this concept: https://github.com/rosmo-robot/Open-Core-M5stack/blob/main/v2/readme.md
 
-Schematic: https://easyeda.com/editor#id=798d0b7c28ee452985cfbebf2f38440d
+Schematic: https://easyeda.com/editor#id=|4db16f780134401cb9039d6028e775b8|1d1d768fe757406caa8acbdd114c1364
