@@ -10,4 +10,4 @@ Includes a [UEXT socket](https://en.wikipedia.org/wiki/UEXT#Electrical_character
 
 There are [other open hardware M5stack boards](https://oshwlab.com/Rosmo/m5-proto)
 
- ![Review board](https://github.com/rosmo-robot/Open-Core-M5stack/blob/main/OpenCoreReview.png)
+ ![Review board](https://github.com/rosmo-robot/Open-Core-M5stack/blob/main/v1/OpenCoreReview.png?raw=true)
