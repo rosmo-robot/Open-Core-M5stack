@@ -8,8 +8,8 @@ WARNING untested - do not use
 <img width="496" alt="2 1side" src="https://user-images.githubusercontent.com/400875/153314797-62cbf153-89ad-41ff-8106-a68829210b8c.png">
 
 
-Schematic: 
 [Gerber view on Altium](https://365.altium.com/files/649C7BFA-BEAC-4A11-B612-F499FA4A752B)
+[Schematic & PCB on EasyEDA](https://easyeda.com/editor#id=b0c915455cd342b9a03f863e1992dc43|42f8b3c53ee042b4857c136aa38183c5)
 
 **Open Core ESP32 Dev board**
 
