@@ -1,8 +1,10 @@
 WARNING untested - do not use yet
 
 ![2 1top](https://user-images.githubusercontent.com/400875/155421845-b0deaa11-25b9-4633-8f7b-1cac35d041e0.png)
+![top](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v2.1/Octocore.jpg)
 
 ![bottom2 1](https://user-images.githubusercontent.com/400875/155421879-066880c6-0f89-4e74-8423-ee3c0ec1a567.png)
+![bottom](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v2.1/octocore-top.jpg)
 
 
 <img width="496" alt="2 1side" src="https://user-images.githubusercontent.com/400875/153314797-62cbf153-89ad-41ff-8106-a68829210b8c.png">
