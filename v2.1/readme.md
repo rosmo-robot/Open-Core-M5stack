@@ -37,11 +37,13 @@ Control will be via Wifi
 
 Board: 4 layers generic, according to JLCPCB.
 
+
+
 **Use cases**
 
-- 8x servo for a walking [OttoDIY/Ninja](https://www.ottodiy.com/) 
+- 8x servo for a walking [OttoDIY/Ninja](https://www.ottodiy.com/) - [Servo library](https://github.com/madhephaestus/ESP32Servo)
 - Optional Rosmo ESC for [Rosmo.io](https://rosmo.io)
-- Optional [staggered 8pin display 1.54" or 2"](http://www.lcdwiki.com/1.54inch_IPS_Module)
+- Optional [staggered 8pin display 1.54" or 2"](http://www.lcdwiki.com/1.54inch_IPS_Module) [Library](https://github.com/Bodmer/TFT_eSPI)
 - Optional [HCS404](https://github.com/rosmo-robot/Rosmo_3D/issues/6) with staggered pins
 - Optional [M5 Mbus](https://forum.m5stack.com/topic/360/m5stack-fire-pinout-leaflet)
 - Optional 5pin [Breakout garden header](https://shop.pimoroni.com/collections/breakout-garden) For [3Dof](https://shop.pimoroni.com/products/msa301-3dof-motion-sensor-breakout), [6dOf](https://shop.pimoroni.com/products/lsm303d-6dof-motion-sensor-breakout), [9DoF](https://shop.pimoroni.com/products/icm20948),  [toF](https://shop.pimoroni.com/products/vl53l1x-breakout), [GPS](https://shop.pimoroni.com/products/pa1010d-gps-breakout) [More](https://shop.pimoroni.com/?q=breakout+garden)
