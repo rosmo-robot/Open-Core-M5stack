@@ -16,7 +16,19 @@ v1.2 Breakout garden works
 
 v1.3 Servos work
 
+v1.4 WebUI can control either servo or BLDC
+
 v2.0 A microros version using command line tools
+
+v2.01 4x4 operation using 2x Rosmo ESC
+
+v2.02 Optional Feather shield for connecting to feather ecosystem
+
+v2.04
+
+
+
+
 
 
 
