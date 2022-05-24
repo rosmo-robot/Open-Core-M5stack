@@ -2,13 +2,17 @@
 
 Note that individual components of Rosmo have different versioning numbers. Here we refer to 'Rosmo.io' version numbers which reflect the whole assembled robot.
 
+
 v0.1 Functional prototype
 
-We're pretty close to this, A robot that will move using command line tools
+We're pretty close to this, A robot that will move using command line tools,
+In progress.
 
 v0.2 Functional prototype that looks kinda pretty 
+In progress.
 
 v1.0 A ESP32 webui available to drive the bot around (Arduino)
+In progress.
 
 v1.1 The LCD screen works
 
