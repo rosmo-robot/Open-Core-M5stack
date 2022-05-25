@@ -1,4 +1,6 @@
 
+We expect all contributors to abide by https://www.contributor-covenant.org/version/2/1/code_of_conduct/
+
 We prefer Open Source tools, specifically;
 
 FreeCAD
