@@ -4,7 +4,7 @@ Power is done https://learn.adafruit.com/adafruit-powerboost-500-shield-recharge
 
 ESP32 exists for ROS http://www.esp32learning.com/hardware/a-look-at-the-espduino-32-board.php
 
-Could do a Feather/ RPI20240 version
+Could do a Feather/ RPI20240 version https://sequentmicrosystems.com/collections/accessories/products/raspberry-pi-replacement-card
 
 Could adapt existing body.
 
