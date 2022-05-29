@@ -6,6 +6,8 @@ ESP32 exists for ROS http://www.esp32learning.com/hardware/a-look-at-the-espduin
 
 Could do a Feather/ RPI20240 version
 
+Could adapt existing body.
+
 Could do a click version https://www.mikroe.com/click
 
 More room to layout driver
