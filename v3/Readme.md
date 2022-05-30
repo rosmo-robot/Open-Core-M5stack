@@ -12,6 +12,9 @@ Could do a click version https://www.mikroe.com/click
 
 Mikrobus to  Feather: https://www.tindie.com/products/bokra/feather-shield/
 
+Sparkfun feather
+https://github.com/sparkfun/RP2040_mikroBUS_Dev_Board
+
 More room to layout driver
 
 1x [5pin breakoutgarden I2C](https://shop.pimoroni.com/collections/breakout-garden)
