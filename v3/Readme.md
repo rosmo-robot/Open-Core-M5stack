@@ -1,4 +1,16 @@
-A simple adaptor board to connect a [common, cheap 1.8" screen](http://www.lcdwiki.com/1.8inch_Esplora_TFT_LCD) to a feather and provide additional I2C breakouts
+A simple adaptor board to connect a [common, cheap 1.8" screen](http://www.lcdwiki.com/1.8inch_Esplora_TFT_LCD) to a feather and provide additional I2C breakouts.
+
+The LCD connects to the board (pins are staggered)
+
+The feather connects to the board (pins are staggered)
+
+You can then use the LCD as SCK/ MOSI etc etc are all connected
+
+Two Breakout garden I2C pin headers are provided
+
+Pins for 1x Quiic socket are provided
+
+Pins for 1x socket are provided
 
 ![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/feather.png)
 
