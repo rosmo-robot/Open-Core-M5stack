@@ -1,4 +1,5 @@
 A simple adaptor board to connect a [common, cheap 1.8" screen](http://www.lcdwiki.com/1.8inch_Esplora_TFT_LCD) to a feather and provide additional I2C breakouts.
+![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/feather.png)
 
 The LCD connects to the board (pins are staggered)
 
@@ -10,9 +11,12 @@ Two Breakout garden I2C pin headers are provided
 
 Pins for 1x Quiic socket are provided
 
-Pins for 1x socket are provided
+Pins for 1x Grove socket are provided
 
-![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/feather.png)
+You can see an example of the off-centre/staggered/not straight pins here:
+![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/pins.webp)
+
+
 
 ![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/GLCD_pinUse.png)
 
