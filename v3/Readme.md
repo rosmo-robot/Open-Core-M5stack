@@ -1,5 +1,7 @@
 Thoughts original UNO footprint?
 
+![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/feather.png)
+
 Power is done https://learn.adafruit.com/adafruit-powerboost-500-shield-rechargeable-battery-pack
 
 ESP32 exists for ROS http://www.esp32learning.com/hardware/a-look-at-the-espduino-32-board.php
