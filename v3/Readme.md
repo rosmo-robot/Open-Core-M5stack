@@ -19,10 +19,12 @@ You can see an example of the off-centre/staggered/not straight pins here:
 ![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/pins.webp)
 
 
-
 ![](https://raw.githubusercontent.com/rosmo-robot/Open-Core-M5stack/main/v3/images/GLCD_pinUse.png)
 
 Feather to Mikrobus already exists: https://www.tindie.com/products/bokra/feather-shield/ https://www.mikroe.com/click
 
 2x [5pin breakoutgarden I2C](https://shop.pimoroni.com/collections/breakout-garden) TOF sensors in particular
 
+
+3s Lipo 71mm https://www.aliexpress.com/item/4001211447586.html
+70mm https://www.aliexpress.com/item/4001054101417.html
